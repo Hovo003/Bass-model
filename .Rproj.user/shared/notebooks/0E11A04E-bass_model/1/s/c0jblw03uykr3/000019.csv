@@ -1,0 +1,4 @@
+"0","cum_ad<-ggplot(data.frame(t = c(1, 32)), aes(t)) +"
+"0","stat_function(fun = bass.F, args = c(p=p_estimate, q=q_estimate)) + "
+"0","  labs(title = 'Cumalative adaptions for Apple watches', y='cumulative adoptions')"
+"0","cum_ad"

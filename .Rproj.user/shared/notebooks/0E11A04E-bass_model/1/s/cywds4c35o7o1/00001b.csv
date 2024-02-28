@@ -1,0 +1,5 @@
+"0","time_ad<-ggplot(data.frame(t = c(1, 32)), aes(t)) +"
+"0","stat_function(fun = bass.f, args = c(p=p_estimate, q=q_estimate)) + "
+"0","  labs(title = 'The Apple watch adoptions at time t', y='proportion of adoptions')"
+"0","time_ad"
+"0",""

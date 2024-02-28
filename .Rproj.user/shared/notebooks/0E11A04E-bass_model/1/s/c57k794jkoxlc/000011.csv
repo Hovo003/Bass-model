@@ -1,0 +1,5 @@
+"0","data<- read.csv(""apple_watch.csv"")"
+"0","total_users = 219430000"
+"0","data<-data.frame(data)"
+"0","data$users = data$proportion * total_users"
+"0","head(data)"

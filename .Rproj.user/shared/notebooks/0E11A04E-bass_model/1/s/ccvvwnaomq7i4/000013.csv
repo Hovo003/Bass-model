@@ -1,0 +1,2 @@
+"0","data$number_of_adopters = bass.f(1:32, p = p_estimate, q = q_estimate)* 219430000"
+"0","data"

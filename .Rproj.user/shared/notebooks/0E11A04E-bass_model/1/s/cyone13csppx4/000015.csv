@@ -1,0 +1,4 @@
+"0","time_ad<-ggplot(data.frame(t = c(1, 32)), aes(t)) +"
+"0","stat_function(fun = bass.f, args = c(p=0.0046, q=0.1)) + "
+"0","  labs(title = 'Number of addopters at time t')"
+"0","time_ad"
